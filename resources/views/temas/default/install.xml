@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datos>
+	<dato>
+		<titulo>Carrusel 1</titulo>
+		<llave>carrusel1</llave>
+		<valor>img/carrusel.jpg</valor>
+		<tipo>imagen</tipo>
+	</dato>
+
+	<dato>
+		<titulo>Carrusel 2</titulo>
+		<llave>carrusel2</llave>
+		<valor>img/carrusel.jpg</valor>
+		<tipo>imagen</tipo>
+	</dato>
+
+	<dato>
+		<titulo>Carrusel 3</titulo>
+		<llave>carrusel3</llave>
+		<valor>img/carrusel.jpg</valor>
+		<tipo>imagen</tipo>
+	</dato>
+
+	<dato>
+		<titulo>Color principal</titulo>
+		<llave>color1</llave>
+		<valor>#e6e6e6</valor>
+		<tipo>color</tipo>
+	</dato>
+
+	<dato>
+		<titulo>Color texto</titulo>
+		<llave>color_texto</llave>
+		<valor>#474747</valor>
+		<tipo>color</tipo>
+	</dato>
+
+	<dato>
+		<titulo>Texto en index</titulo>
+		<llave>texto_index1</llave>
+		<valor>Bienvenido/a a nuestro eshop</valor>
+		<tipo>texto</tipo>
+	</dato>
+
+	<dato>
+		<titulo>Texto en index 2</titulo>
+		<llave>texto_index2</llave>
+		<valor>La actitud es todo</valor>
+		<tipo>texto</tipo>
+	</dato>
+
+	<dato>
+		<titulo>Telefono</titulo>
+		<llave>telefono</llave>
+		<valor>12345678</valor>
+		<tipo>string</tipo>
+	</dato>
+
+	<dato>
+		<titulo>Dirección</titulo>
+		<llave>direccion</llave>
+		<valor>Dirección 1234</valor>
+		<tipo>string</tipo>
+	</dato>
+
+	<dato>
+		<titulo>Instagram</titulo>
+		<llave>instagram</llave>
+		<valor></valor>
+		<tipo>string</tipo>
+	</dato>
+
+	<dato>
+		<titulo>Facebook</titulo>
+		<llave>facebook</llave>
+		<valor></valor>
+		<tipo>string</tipo>
+	</dato>
+</datos>

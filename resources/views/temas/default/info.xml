@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datos>
+	<nombre>Default</nombre>
+	<uri></uri>
+	<autor>TuTiendaFacil</autor>
+	<autor_uri>http://tutiendafacil.uy</autor_uri>
+	<descripcion>Tema default de la plataforma TuTiendaFacil</descripcion>
+	<version>1.0</version>
+	<tags>tienda</tags>
+</datos>

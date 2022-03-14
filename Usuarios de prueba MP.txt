@@ -1,0 +1,27 @@
+ Compardor
+ 
+ "id" => 691669154
+  "nickname" => "TETE401317"
+  "password" => "qatest2489"
+  "site_status" => "active"
+  "email" => "test_user_27434737@testuser.com"
+
+
+Vendedor
+
+"id" => 691669177
+  "nickname" => "TETE2568048"
+  "password" => "qatest8076"
+  "site_status" => "active"
+  "email" => "test_user_50158195@testuser.com"
+
+  
+MP_PUBLIC_KEY=APP_USR-064b30bc-9083-4e34-bcdd-ed73d6c418a3
+MP_ACCESS_TOKEN=APP_USR-7882233477752920-111918-244484b4e2993bb9df5493335b813f18-161286386
+
+MP_CLIENT_ID=7882233477752920
+MP_REDIRECT_URI=https://tutiendafacil.uy/admin/mercadopago
+MP_IPN_URI=https://tutiendafacil.uy/admin/mercadopago/ipn
+
+MP_CLIENT_SECRET=tzpXWXJXwn2KBwtgkxI0NME5UgmUtYLN
+MP_COMISION_TTF=0.02

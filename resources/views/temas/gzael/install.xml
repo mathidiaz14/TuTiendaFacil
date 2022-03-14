@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datos>
+	<dato>
+		<titulo>Carrusel 1</titulo>
+		<llave>carrusel1</llave>
+		<valor></valor>
+		<tipo>imagen</tipo>
+	</dato>
+
+	<dato>
+		<titulo>Carrusel 2</titulo>
+		<llave>carrusel2</llave>
+		<valor></valor>
+		<tipo>imagen</tipo>
+	</dato>
+
+	<dato>
+		<titulo>Carrusel 3</titulo>
+		<llave>carrusel3</llave>
+		<valor></valor>
+		<tipo>imagen</tipo>
+	</dato>
+
+	<dato>
+		<titulo>Imagen sobre nosotros</titulo>
+		<llave>about_image</llave>
+		<valor></valor>
+		<tipo>imagen</tipo>
+	</dato>
+
+	<dato>
+		<titulo>Color principal</titulo>
+		<llave>color1</llave>
+		<valor>#3c2946</valor>
+		<tipo>color</tipo>
+	</dato>
+	<dato>
+		<titulo>Color texto</titulo>
+		<llave>color_texto</llave>
+		<valor>#ffffff</valor>
+		<tipo>color</tipo>
+	</dato>
+
+	<dato>
+		<titulo>Texto en index</titulo>
+		<llave>texto_index1</llave>
+		<valor>BIENVENIDA A NUESTRO SHOP ONLINE!</valor>
+		<tipo>texto</tipo>
+	</dato>
+
+	<dato>
+		<titulo>Texto en index 2</titulo>
+		<llave>texto_index2</llave>
+		<valor>LA ACTITUD ES TODO</valor>
+		<tipo>texto</tipo>
+	</dato>
+
+
+	<dato>
+		<titulo>Sobre nosotros</titulo>
+		<llave>sobre_nosotros</llave>
+		<valor>
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente culpa molestias quo possimus, repudiandae, quos, cum laboriosam optio dolor nihil, incidunt rem. Ab, earum, itaque? Dolorum possimus, blanditiis autem magni.</valor>
+		<tipo>texto</tipo>
+	</dato>
+
+	<dato>
+		<titulo>Telefono</titulo>
+		<llave>telefono</llave>
+		<valor>12345678</valor>
+		<tipo>string</tipo>
+	</dato>
+
+	<dato>
+		<titulo>Dirección</titulo>
+		<llave>direccion</llave>
+		<valor>Dirección 1234</valor>
+		<tipo>string</tipo>
+	</dato>
+
+	<dato>
+		<titulo>Instagram</titulo>
+		<llave>instagram</llave>
+		<valor></valor>
+		<tipo>string</tipo>
+	</dato>
+
+	<dato>
+		<titulo>Facebook</titulo>
+		<llave>facebook</llave>
+		<valor></valor>
+		<tipo>string</tipo>
+	</dato>
+
+	<dato>
+		<titulo>Twitter</titulo>
+		<llave>twitter</llave>
+		<valor></valor>
+		<tipo>string</tipo>
+	</dato>
+
+	<dato>
+		<titulo>LinkedIn</titulo>
+		<llave>linkedin</llave>
+		<valor></valor>
+		<tipo>string</tipo>
+	</dato>
+
+	<dato>
+		<titulo>Ubicación url</titulo>
+		<llave>ubicacion</llave>
+		<valor></valor>
+		<tipo>string</tipo>
+	</dato>
+</datos>
